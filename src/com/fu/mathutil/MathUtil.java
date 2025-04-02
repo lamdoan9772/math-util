@@ -27,6 +27,10 @@ public class MathUtil {
         //if expected == actual, ham ngon trong tinh huong nay
 //        Math.getFactorial(-5);
         
+//Them code sau lan dau tien lam chuyen ay - code len server
+//8;39 am 2/4/2025
+        System.out.println("expected: 0! = 1; actual: " + Math.getFactorial(0));
+        System.out.println("expected: 3! = 6; actual: " + Math.getFactorial(3));
     }
     
 }
